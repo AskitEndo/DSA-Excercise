@@ -24,7 +24,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
 
-GitHub: [AskitEndo](https://github.com/AskitEndo)
-CodingNinjas: [AskitEndo](https://www.naukri.com/code360/profile/AskitEndo)
+GitHub😼: [AskitEndo](https://github.com/AskitEndo)\
+CodingNinjas🥷🏻: [AskitEndo](https://www.naukri.com/code360/profile/AskitEndo)
 
 Let's code and learn together! 💻✨
