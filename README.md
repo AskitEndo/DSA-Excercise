@@ -12,11 +12,11 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 1: April 26, 2024**
 
-- Added [Pattern based Problems](https://github.com/AskitEndo/DSA-Excercise): Various Beginner Patterns Based problems all in code. [Link to Question❓](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
+- Added [Pattern based Problems](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%201/patternProbelms.cpp): Various Beginner Patterns Based problems all in code. [Link to Question❓](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
 
 ---
 
-- Added [Count Digits](https://github.com/AskitEndo/DSA-Excercise): Returns the total number of Digits that can divide the the number they reside in. [Link to Question❓](https://www.naukri.com/code360/problems/count-digits_8416387)
+- Added [Count Digits](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%201/countDigits.cpp): Returns the total number of Digits that can divide the the number they reside in. [Link to Question❓](https://www.naukri.com/code360/problems/count-digits_8416387)
 
 ---
 
