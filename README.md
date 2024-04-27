@@ -20,6 +20,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 2: April 27, 2024**
+
+- Added [Reverse Bits](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%202/reversedBits.cpp): This is A modearte difficulty problem which deals with bit manipulation. [Link to Question❓](https://www.naukri.com/code360/problems/reverse-bits_2181102)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!

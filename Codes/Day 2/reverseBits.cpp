@@ -7,7 +7,7 @@ using namespace std;
 long reverseBits(long n){
     long value;
     int i = 0;
-    while (i < (sizeof(long) * 8)) {
+    while (i < 32) {
     long lsb = n & 1L;
     value <<= 1;
     value |= lsb;
@@ -16,6 +16,7 @@ long reverseBits(long n){
   }
     return value;
 }
+ 
 
 int main()
 {
