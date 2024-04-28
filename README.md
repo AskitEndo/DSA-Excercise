@@ -28,17 +28,23 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 3: April 28, 2024**
 
-- Added [reverseOfANumber](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%302/reverseOfANumber.cpp): simple problem of reversing a integer. [Link to Question❓](https://www.naukri.com/code360/problems/reverse-of-a-number_624652)
+- Added [reverseOfANumber](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%203/reverseOfANumber.cpp): simple problem of reversing a integer. [Link to Question❓](https://www.naukri.com/code360/problems/reverse-of-a-number_624652)
 
-- Added [palindrome](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%302/palindrome.cpp): Returns whether the program in palindrome or not. [Link to Question❓](https://www.naukri.com/code360/problems/palindrome-number_624662)
+- Added [palindrome](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%203/palindrome.cpp): Returns whether the program in palindrome or not. [Link to Question❓](https://www.naukri.com/code360/problems/palindrome-number_624662)
 
-- Added [gcd1](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%302/gcd1.cpp): A code that finds gcd of two numbers. Version 1 [Link to Question❓](https://www.naukri.com/code360/problems/hcf-and-lcm_840448)
+- Added [gcd1](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%203/gcd1.cpp): A code that finds gcd of two numbers. Version 1 [Link to Question❓](https://www.naukri.com/code360/problems/hcf-and-lcm_840448)
 
-- Added [gcd2](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%302/gcd2.cpp): A code that finds gcd of two numbers. Version 2 [Link to Question❓](https://www.naukri.com/code360/problems/hcf-and-lcm_840448)
+- Added [gcd2](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%203/gcd2.cpp): A code that finds gcd of two numbers. Version 2 [Link to Question❓](https://www.naukri.com/code360/problems/hcf-and-lcm_840448)
 
-- Added [checkArmstrong](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%302/checkArmstrong.cpp):Returns whether the input in armstrong number or not. [Link to Question❓](https://www.naukri.com/code360/problems/check-armstrong_589)
+- Added [checkArmstrong](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%203/checkArmstrong.cpp):Returns whether the input in armstrong number or not. [Link to Question❓](https://www.naukri.com/code360/problems/check-armstrong_589)
 
-- Added [sumOfAllDivisors](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%302/sumOfAllDivisors.cpp): Gives total sum of all divisors of that number. [Link to Question❓](https://www.naukri.com/code360/problems/sum-of-all-divisors_8360720)
+- Added [sumOfAllDivisors](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%203/sumOfAllDivisors.cpp): Gives total sum of all divisors of that number. [Link to Question❓](https://www.naukri.com/code360/problems/sum-of-all-divisors_8360720)
+
+---
+
+### **Day 4: April 29, 2024**
+
+- Added [sumOfAllDivisors2](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%204/sumofAllDivisors2.cpp): This is A modearte difficulty problem which deals with bit manipulation. FIXED TIME LIMIT [Link to Question❓](https://www.naukri.com/code360/problems/sum-of-all-divisors_8360720)
 
 ---
 
