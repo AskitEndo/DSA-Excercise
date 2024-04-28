@@ -44,7 +44,11 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 4: April 29, 2024**
 
-- Added [sumOfAllDivisors2](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%204/sumofAllDivisors2.cpp): This is A modearte difficulty problem which deals with bit manipulation. FIXED TIME LIMIT [Link to Question❓](https://www.naukri.com/code360/problems/sum-of-all-divisors_8360720)
+- Added [sumOfAllDivisors2](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%204/sumofAllDivisors2.cpp): Gives total sum of all divisors of that number.FIXED TIME LIMIT [Link to Question❓](https://www.naukri.com/code360/problems/sum-of-all-divisors_8360720)
+
+- Added [printAllDivisorsSTL](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%204/printAllDivisorsSTL.cpp): Prints all the divisors of the number is sorted manner using C++ STL methods. [Link to Question❓](https://www.naukri.com/code360/problems/print-all-divisors-of-a-number_1164188)
+
+- Added [checkPrime.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%204/checkPrime.cpp): Checks whether a number is primeor not. [Link to Question❓](https://www.naukri.com/code360/problems/check-prime_624934)
 
 ---
 
