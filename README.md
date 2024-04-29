@@ -50,6 +50,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [checkPrime.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%204/checkPrime.cpp): Checks whether a number is primeor not. [Link to Question❓](https://www.naukri.com/code360/problems/check-prime_624934)
 
+- Added [nOutputUsingRecursion.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%204/nOutputUsingRecursion.cpp): Printing 1 to N using Recursion and no loops. [Link to Question❓](https://www.naukri.com/code360/problems/print-1-to-n_628290)
+
 ---
 
 ## **Connect with Me**
