@@ -1,7 +1,7 @@
-
+# For ignoring all the executeables ussed for testing.
 **.exe**
 **/.exe**
 **/.exe
 
-
+# For ignoring the vscode created files
 .vscode
