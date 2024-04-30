@@ -54,6 +54,18 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 5: April 30, 2024**
+
+- Added [print1ToN.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%205/print1ToN.cpp): Print 1 to n using recursion [Link to Question❓](https://www.naukri.com/code360/problems/print-1-to-n_628290)
+
+- Added [printNTo1.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%205/printNTo1.cpp):Print N to 1 using recursion [Link to Question❓](https://www.naukri.com/code360/problems/n-to-1-without-loop_8357243)
+
+- Added [printStringNTimes.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%205/printStringNTimes.cpp): Print N times a string using recursion. [Link to Question❓](https://www.naukri.com/code360/problems/-print-n-times_8380707)
+
+- Added [sum1ToN.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%205/sum1To.cpp): Sum of 1 to N Recursion and no loops. [Link to Question❓](https://www.naukri.com/code360/problems/sum-of-first-n-numbers_8876068)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
