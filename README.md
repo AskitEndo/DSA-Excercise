@@ -72,9 +72,9 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [reverseArray.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%206/reverseArray.cpp):reverses array usng recursion as base. [Link to Question❓](https://www.naukri.com/code360/problems/reverse-an-array_8365444)
 
-- Added [checkPalindromeString.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%206/checkPalindromeString.cpp): Checks Whther the string is pallindrome or not. ○[L.T.Q.1❓](https://www.naukri.com/code360/problems/check-palindrome-recursive_624386) ○[L.T.Q.2❓](https://leetcode.com/problems/valid-palindrome/)
+- Added [checkPalindromeString.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%206/checkPalindromeString.cpp): Checks Whther the string is pallindrome or not. ↗[L.T.Q.1❓](https://www.naukri.com/code360/problems/check-palindrome-recursive_624386) ↗[L.T.Q.2❓](https://leetcode.com/problems/valid-palindrome/)
 
-- Added [fibonacciSeries.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%206/fibonacciSeries.cpp): Does printing and sumation of fibonacci series of n. ○[L.T.Q.1❓](https://www.naukri.com/code360/problems/print-fibonacci-series_7421617) ○[L.T.Q.2❓](https://leetcode.com/problems/fibonacci-number/description/)
+- Added [fibonacciSeries.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%206/fibonacciSeries.cpp): Does printing and sumation of fibonacci series of n. ↗[L.T.Q.1❓](https://www.naukri.com/code360/problems/print-fibonacci-series_7421617) ↗[L.T.Q.2❓](https://leetcode.com/problems/fibonacci-number/description/)
 
 ---
 
@@ -84,6 +84,6 @@ If you have any suggestions, feedback, or just want to say hi, feel free to conn
 
 GitHub😼: [AskitEndo](https://github.com/AskitEndo)\
 CodingNinjas🥷🏻: [AskitEndo](https://www.naukri.com/code360/profile/AskitEndo)\
-LeetCode💽:[AskitEndo](https://leetcode.com/u/AskitEndo/)\
+LeetCode💽:[AskitEndo](https://leetcode.com/u/AskitEndo/)
 
 Let's code and learn together! 💻✨
