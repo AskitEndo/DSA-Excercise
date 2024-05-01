@@ -74,7 +74,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [checkPalindromeString.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%206/checkPalindromeString.cpp): Checks Whther the string is pallindrome or not. [❓🥷🏻](https://www.naukri.com/code360/problems/check-palindrome-recursive_624386) [❓💽](https://leetcode.com/problems/valid-palindrome/)
 
-- Added [fibonacciSeries.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%206/fibonacciSeries.cpp): Does printing and sumation of fibonacci series of n. [❓🥷🏻](https://www.naukri.com/code360/problems/print-fibonacci-series_7421617) [❓💽](https://leetcode.com/problems/fibonacci-number/description/)
+- Added [fibonacciSeries.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%206/fibonacciSeries.cpp): Does printing and sumation of fibonacci series of n. [ (CN)❓🥷🏻 ](https://www.naukri.com/code360/problems/print-fibonacci-series_7421617) [ (LC)❓💽 ](https://leetcode.com/problems/fibonacci-number/description/)
 
 ---
 
@@ -83,7 +83,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
 
 GitHub😼: [AskitEndo](https://github.com/AskitEndo)\
-CodingNinjas🥷🏻: [AskitEndo](https://www.naukri.com/code360/profile/AskitEndo)
-LeetCode💽:[AskitEndo](https://leetcode.com/u/AskitEndo/)
+CodingNinjas🥷🏻: [AskitEndo](https://www.naukri.com/code360/profile/AskitEndo)\
+LeetCode💽:[AskitEndo](https://leetcode.com/u/AskitEndo/)\
 
 Let's code and learn together! 💻✨
