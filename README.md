@@ -78,6 +78,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 7: May 02, 2024**
+
+- Added [countElementHash.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%207/countElementHash.cpp): Counting elements of a array using hashing [Link to Question❓](https://www.naukri.com/code360/problems/count-frequency-in-a-range_8365446)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
