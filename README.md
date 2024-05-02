@@ -82,6 +82,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [countElementHash.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%207/countElementHash.cpp): Counting elements of a array using hashing [Link to Question❓](https://www.naukri.com/code360/problems/count-frequency-in-a-range_8365446)
 
+- Added [highestLowestFreq.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%207/highestLowestFreq.cpp): Returns Highest and Lowest Frequency elemets. [Link to Question❓](https://www.naukri.com/code360/problems/k-most-occurrent-numbers_625382)
+
 ---
 
 ## **Connect with Me**
