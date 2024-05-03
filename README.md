@@ -24,6 +24,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [Reverse Bits](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%202/reversedBits.cpp): This is A modearte difficulty problem which deals with bit manipulation. [Link to Question❓](https://www.naukri.com/code360/problems/reverse-bits_2181102)
 
+- Added [reverseNumber.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%202/reverseNumber.cpp): Reverses a number ↗[L.T.Q.1❓](https://www.naukri.com/code360/problems/reverse-of-a-number_893271) ↗[L.T.Q.2❓](https://leetcode.com/problems/reverse-integer/)
+
 ---
 
 ### **Day 3: April 28, 2024**

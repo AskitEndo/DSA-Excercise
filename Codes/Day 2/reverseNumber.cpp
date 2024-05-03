@@ -1,3 +1,8 @@
+// Reverses A number
+// CodeNinjas Link: https://www.naukri.com/code360/problems/reverse-of-a-number_893271
+// LeetCode Link: https://leetcode.com/problems/reverse-integer/
+
+
 #include <bits/stdc++.h> 
 using namespace std;
 
