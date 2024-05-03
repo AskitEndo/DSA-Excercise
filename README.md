@@ -86,6 +86,20 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 8: May 03, 2024**
+
+- Added [largestElement.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%208/largestElement.cpp):Returns Largest element of the array [Link to Question❓](https://www.naukri.com/code360/problems/largest-element-in-the-array-largest-element-in-the-array_5026279)
+
+- Added [secondLargestElement.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%208/secondLargestElement.cpp):Returns the second largest and the second smallest element [Link to Question❓](https://www.naukri.com/code360/problems/ninja-and-the-second-order-elements_6581960)
+
+- Added [isSorted.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%208/isSorted.cpp):Returns if the array is sorted [Link to Question❓](https://www.naukri.com/code360/problems/ninja-and-the-sorted-check_6581957)
+
+- Added [isRotatedIfSorted.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%208/isRotatedIfSorted.cpp):Returns if the array is roated if given sorted [Link to Question❓](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+
+- Added [isRotatedIfSorted2.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%208/isRotatedIfSorted2.cpp): [EASIER] Returns if the array is roated if given sorted [Link to Question❓](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
