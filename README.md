@@ -102,6 +102,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 9: May 04, 2024**
+
+- Added [rotateByK.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%209/rotateByK.cpp):Rotate Array by K places. ↗[L.T.Q.1❓](https://www.naukri.com/code360/problems/rotate-array_1230543) ↗[L.T.Q.2❓](https://leetcode.com/problems/rotate-array/)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
