@@ -108,6 +108,14 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 10: May 5, 2024**
+
+- Added [removeDuplicates1.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%210/removeDuplicates1.cpp): Removes the Duplicates from the array and return the length of unique elements. [Link to Question❓](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+- Added [removeDuplicates2.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%210/removeDuplicates2.cpp): Removes the Duplicates from the array and return the length of unique elements. [Link to Question❓](https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
