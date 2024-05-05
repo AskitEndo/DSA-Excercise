@@ -110,9 +110,15 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 10: May 5, 2024**
 
-- Added [removeDuplicates1.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%210/removeDuplicates1.cpp): Removes the Duplicates from the array and return the length of unique elements. [Link to Question❓](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- Added [removeDuplicates1.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2010/removeDuplicates1.cpp): Removes the Duplicates from the array and return the length of unique elements. [Link to Question❓](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
-- Added [removeDuplicates2.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%210/removeDuplicates2.cpp): Removes the Duplicates from the array and return the length of unique elements. [Link to Question❓](https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307)
+- Added [removeDuplicates2.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2010/removeDuplicates2.cpp): Removes the Duplicates from the array and return the length of unique elements. [Link to Question❓](https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307)
+
+- Added [rotateByOne.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2010/rotateByOne.cpp): Rotates the array by one place [Link to Question❓](https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278)
+
+- Added [linearSearch.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2010/linearSearch.cpp): Performs linear search. [Link to Question❓](https://www.naukri.com/code360/problems/linear-search_6922070)
+
+- Added [moveZeroesToEnd.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2010/moveZeroesToEnd.cpp): Moves all the zeroes of array in the end of array. ↗[L.T.Q.1❓](https://www.naukri.com/code360/problems/ninja-and-the-zero-s_6581958) ↗[L.T.Q.2❓](https://leetcode.com/problems/move-zeroes/description)
 
 ---
 
