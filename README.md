@@ -126,6 +126,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [findOnesSeries.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2011/findOnesSeries.cpp): Returns the number of consecutive ones in the array. ↗[L.T.Q.1❓](https://www.naukri.com/code360/problems/maximum-consecutive-ones_3843993) ↗[L.T.Q.2❓](https://leetcode.com/problems/max-consecutive-ones/description)
 
+- Added [missingNumber.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2011/missingNumber.cpp): Returns missing number. [Link to Question❓](https://leetcode.com/problems/missing-number/)
+
 ---
 
 ## **Connect with Me**
