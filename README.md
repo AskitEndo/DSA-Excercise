@@ -122,6 +122,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 11: May 6, 2024**
+
+- Added [findOnesSeries.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2011/findOnesSeries.cpp): Returns the number of consecutive ones in the array. ↗[L.T.Q.1❓](https://www.naukri.com/code360/problems/maximum-consecutive-ones_3843993) ↗[L.T.Q.2❓](https://leetcode.com/problems/max-consecutive-ones/description)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
