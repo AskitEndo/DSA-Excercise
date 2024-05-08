@@ -136,6 +136,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 13: May 8, 2024**
+
+- Added [sumArrayOfSumK.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2013/sumArrayOfSumK.cpp): Returns the len of the longest number of elements to sum up to k [Link to Question❓](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
