@@ -130,7 +130,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
-### **Day 11: May 6, 2024**
+### **Day 12: May 7, 2024**
 
 - Added [consecutiveNums.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2012/consecutiveNums.cpp): Returns The number which appears only single time ↗[L.T.Q.1❓](https://www.naukri.com/code360/problems/find-the-single-element_6680465) ↗[L.T.Q.2❓](https://leetcode.com/problems/single-number/)
 
@@ -143,5 +143,6 @@ If you have any suggestions, feedback, or just want to say hi, feel free to conn
 GitHub😼: [AskitEndo](https://github.com/AskitEndo)\
 CodingNinjas🥷🏻: [AskitEndo](https://www.naukri.com/code360/profile/AskitEndo)\
 LeetCode💽:[AskitEndo](https://leetcode.com/u/AskitEndo/)
+GeeksForGeeks🕶️:[askitendo](https://www.geeksforgeeks.org/user/askitendo/)
 
 Let's code and learn together! 💻✨
