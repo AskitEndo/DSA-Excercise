@@ -148,6 +148,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [sumArrayOfSumK_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2014/sumArrayOfSumK_Optimal.cpp): Returns the len of the longest number of elements to sum up to k.[Link to Question❓](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
 
+- Added [sumOfDivisors_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2014/sumOfDivisors_Optimal.cpp): Returns the len of the longest number of elements to sum up to k.[Link to Question❓](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1)
+
 ---
 
 ## **Connect with Me**
