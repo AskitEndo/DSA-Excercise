@@ -29,7 +29,7 @@ bool isPrimeOptimal(int n) {
     return false;
   }
   int fc = 0;
-  for (int i = 1; i * i < n; i++) { 
+  for (int i = 1; i * i <=n; i++) { 
     if (n % i == 0) {
       fc++;
       if ((n / i) != i) fc++;

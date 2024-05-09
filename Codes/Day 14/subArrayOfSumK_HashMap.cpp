@@ -1,4 +1,5 @@
 //Returns the maximum length of subarray which sums up to K
+// OPtimal for Negative arrays.
 // Link: https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
 
 #include<bits/Stdc++.h>
