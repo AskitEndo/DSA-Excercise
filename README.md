@@ -150,6 +150,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [sumOfDivisors_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2014/sumOfDivisors_Optimal.cpp): Returns the len of the longest number of elements to sum up to k.[Link to Question❓](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1)
 
+- Added [twoSum_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2014/twoSum_Brute.cpp): Returns the array of two numbers of elements to sum up to target.[Link to Question❓](https://leetcode.com/problems/two-sum/)
+
 ---
 
 ## **Connect with Me**
