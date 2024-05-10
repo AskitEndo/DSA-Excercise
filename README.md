@@ -158,6 +158,10 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [twoSum_Hash.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2015/twoSum_Hash.cpp): Returns the array of two numbers of elements to sum up to target.[Link to Question❓](https://leetcode.com/problems/two-sum/)
 
+- Added [zeroOnesTwoes.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2015/zeroOnesTwoes.cpp): Sort colors on 0,1,2. [Link to Question❓](https://leetcode.com/problems/sort-colors/)
+
+- Added [zeroOnesTwoes_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2015/zeroOnesTwoes_Optimal.cpp): Sort colors on 0,1,2. [Link to Question❓](https://leetcode.com/problems/sort-colors/)
+
 ---
 
 ## **Connect with Me**
