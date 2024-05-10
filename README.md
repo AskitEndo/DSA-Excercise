@@ -154,6 +154,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 15: May 10, 2024**
+
+- Added [twoSum_Hash.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2015/twoSum_Hash.cpp): Returns the array of two numbers of elements to sum up to target.[Link to Question❓](https://leetcode.com/problems/two-sum/)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
