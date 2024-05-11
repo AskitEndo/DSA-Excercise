@@ -164,6 +164,14 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 16: May 11, 2024**
+
+- Added [majorityElementN2.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2016/majorityElementN2.cpp): Returns the majority element which occurs more then n/2 times.[Link to Question❓](https://leetcode.com/problems/majority-element/)
+
+- Added [maximumSubArraySum_Kadane.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2016/maximumSubArraySum_Kadane.cpp): Returns the maximum sub array sum.[Link to Question❓](https://leetcode.com/problems/maximum-subarray/)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!

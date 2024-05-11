@@ -5,6 +5,7 @@
 using namespace std;
 
 
+//  Dutch National flag Algorithm
 void sortColors(vector<int>& nums) {
         int b=0;
         int m=0;
