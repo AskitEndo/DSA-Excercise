@@ -172,6 +172,16 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 17: May 12, 2024**
+
+- Added [maxSumSubArray_Array.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2017/maxSumSubArray_Array.cpp): Printing the sub array whiv has the maximum sum.[Link to Question❓](https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/0)
+
+- Added [stockBuyandSell.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2017/stockBuyandSell.cpp): buy stock and lowest and sell at highest.[Link to Question❓](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+- Added [rearrangeBySign.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2017/rearrangeBySign.cpp): Returns the majority element which occurs more then n/2 times.[Link to Question❓](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
