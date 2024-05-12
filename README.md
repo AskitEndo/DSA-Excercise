@@ -168,7 +168,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [majorityElementN2.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2016/majorityElementN2.cpp): Returns the majority element which occurs more then n/2 times.[Link to Question❓](https://leetcode.com/problems/majority-element/)
 
-- Added [maximumSubArraySum_Kadane.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2016/maximumSubArraySum_Kadane.cpp): Returns the maximum sub array sum.[Link to Question❓](https://leetcode.com/problems/maximum-subarray/)
+- Added [maximumSubArraySum_Kadane.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2016/maximumSubArraySum_Kadane.cpp): Rearrange vector according to the order of alternative signs.[Link to Question❓](https://leetcode.com/problems/maximum-subarray/)
 
 ---
 
