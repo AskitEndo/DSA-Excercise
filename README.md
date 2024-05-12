@@ -178,7 +178,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [stockBuyandSell.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2017/stockBuyandSell.cpp): buy stock and lowest and sell at highest.[Link to Question❓](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
-- Added [rearrangeBySign.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2017/rearrangeBySign.cpp): Returns the majority element which occurs more then n/2 times.[Link to Question❓](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+- Added [rearrangeBySign.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2017/rearrangeBySign.cpp): Returns the majority element which occurs more then n/2 times.[Link to Question❓](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 
 ---
 
