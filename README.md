@@ -182,6 +182,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 18: May 13, 2024**
+
+- Added [nextPermutation.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2018/nextPermutation.cpp): Updates the array to next permutation.[Link to Question❓](https://leetcode.com/problems/next-permutation)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
