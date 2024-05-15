@@ -188,6 +188,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 19: May 14, 2024**
+
+- Added [leaderInArray.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2019/leaderInArray.cpp):Returns the element which are greatest to the element to thier right.[Link to Question❓](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
