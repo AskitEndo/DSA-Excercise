@@ -194,6 +194,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 20: May 15, 2024**
+
+- Added [longestConsecutive.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2020/longestConsecutive.cpp):Returns the longest consecutive array of elements number.[Link to Question❓](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
