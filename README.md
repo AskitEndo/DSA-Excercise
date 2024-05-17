@@ -200,6 +200,18 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 21: May 16, 2024**
+
+- Added [.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2021/l.cpp): [Link to Question❓]()
+
+---
+
+### **Day 22: May 17, 2024**
+
+- Added [.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2021/l.cpp): [Link to Question❓]()
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
