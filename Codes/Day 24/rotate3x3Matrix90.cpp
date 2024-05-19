@@ -1,3 +1,6 @@
+// rotates 3x3 matrix by 90-degrees.
+// https://leetcode.com/problems/rotate-image/description/
+
 #include <bits/stdc++.h>
 using namespace std;
 
