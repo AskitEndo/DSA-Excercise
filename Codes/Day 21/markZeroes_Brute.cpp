@@ -1,3 +1,7 @@
+// if matrix conatins zero mark the entire row and column as zero.
+// Link: https://leetcode.com/problems/set-matrix-zeroes/
+
+
 #include<bits/Stdc++.h>
 using namespace std;
 
