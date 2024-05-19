@@ -202,13 +202,25 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 21: May 16, 2024**
 
-- Added [.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2021/l.cpp): [Link to Question❓]()
+- Added [markZeroes_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2021/markZeroes_Brute.cpp): [Link to Question❓]()
 
 ---
 
 ### **Day 22: May 17, 2024**
 
-- Added [.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2021/l.cpp): [Link to Question❓]()
+- Added [markZeroes_Bool.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2022/markZeroes_Bool.cpp): [Link to Question❓]()
+
+---
+
+### **Day 23: May 18, 2024**
+
+- Added [.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2023/.cpp): [Link to Question❓]()
+
+---
+
+### **Day 24: May 19, 2024**
+
+- Added [.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2024/.cpp): [Link to Question❓]()
 
 ---
 
