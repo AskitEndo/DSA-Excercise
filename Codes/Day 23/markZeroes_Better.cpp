@@ -1,4 +1,5 @@
 // if matrix conatins zero mark the entire row and column as zero.
+// Uses Optimal Method
 // Link: https://leetcode.com/problems/set-matrix-zeroes/
 
 #include <bits/Stdc++.h>
