@@ -220,7 +220,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 24: May 19, 2024**
 
-- Added [.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2024/.cpp): [Link to Question❓]()
+- Added [rotate3x3Matrix90.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2024/rotate3x3Matrix90.cpp): [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
 
 ---
 
