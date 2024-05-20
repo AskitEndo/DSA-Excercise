@@ -228,6 +228,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [rotateMatrix90_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2025/rotateMatrix90_Brute.cpp):Rotate any sqaure Matrix by 90 Degrees [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
 
+- Added [rotateMatrix90_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2025/rotateMatrix90_Optimal.cpp):Rotate any sqaure Matrix by 90 Degrees [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
+
 ---
 
 ## **Connect with Me**
