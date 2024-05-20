@@ -230,6 +230,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [rotateMatrix90_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2025/rotateMatrix90_Optimal.cpp):Rotate any sqaure Matrix by 90 Degrees [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
 
+- Added [spiralMatrix.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2025/spiralMatrix.cpp):Prints all elemetns of the matrix the spiral order [Link to Question❓](https://leetcode.com/problems/spiral-matrix/description/)
+
 ---
 
 ## **Connect with Me**
