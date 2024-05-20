@@ -220,7 +220,13 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 24: May 19, 2024**
 
-- Added [rotate3x3Matrix90.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2024/rotate3x3Matrix90.cpp): [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
+- Added [rotate3x3Matrix90.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2024/rotate3x3Matrix90.cpp):Rotate 3x3 matrix by 90 Degrees. [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
+
+---
+
+### **Day 25: May 20, 2024**
+
+- Added [rotateMatrix90_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2025/rotateMatrix90_Brute.cpp):Rotate any sqaure Matrix by 90 Degrees [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
 
 ---
 
