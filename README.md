@@ -234,6 +234,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 26: May 21, 2024**
+
+- Added [subArraySumK.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2026/subArraySumK.cpp): Returns number of subarray that can sum up to K[Link to Question❓](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
