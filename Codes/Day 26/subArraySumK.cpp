@@ -1,3 +1,6 @@
+// Returns number of subarray that can sum up to K
+// Link: https://leetcode.com/problems/subarray-sum-equals-k/
+
 #include <bits/Stdc++.h>
 using namespace std;
 
