@@ -182,49 +182,25 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
-### **Day 18: May 13, 2024**
+### **Day 18: May 13, 2024** _To_ **Day 20: May 15, 2024**
 
 - Added [nextPermutation.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2018/nextPermutation.cpp): Updates the array to next permutation.[Link to Question❓](https://leetcode.com/problems/next-permutation)
 
----
-
-### **Day 19: May 14, 2024**
-
 - Added [leaderInArray.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2019/leaderInArray.cpp):Returns the element which are greatest to the element to thier right.[Link to Question❓](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
-
----
-
-### **Day 20: May 15, 2024**
 
 - Added [longestConsecutive.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2020/longestConsecutive.cpp):Returns the longest consecutive array of elements number.[Link to Question❓](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ---
 
-### **Day 21: May 16, 2024**
+### **Day 21: May 16, 2024** _To_ **Day 25: May 20, 2024**
 
 - Added [markZeroes_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2021/markZeroes_Brute.cpp):if matrix conatins zero mark the entire row and column as zero. [Link to Question❓](https://leetcode.com/problems/set-matrix-zeroes/)
 
----
-
-### **Day 22: May 17, 2024**
-
 - Added [markZeroes_Bool.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2022/markZeroes_Bool.cpp):if matrix conatins zero mark the entire row and column as zero. [Link to Question❓](https://leetcode.com/problems/set-matrix-zeroes/)
-
----
-
-### **Day 23: May 18, 2024**
 
 - Added [markZeroes_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2023/markZeroes_Better.cpp):if matrix conatins zero mark the entire row and column as zero. [Link to Question❓](https://leetcode.com/problems/set-matrix-zeroes/)
 
----
-
-### **Day 24: May 19, 2024**
-
 - Added [rotate3x3Matrix90.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2024/rotate3x3Matrix90.cpp):Rotate 3x3 matrix by 90 Degrees. [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
-
----
-
-### **Day 25: May 20, 2024**
 
 - Added [rotateMatrix90_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2025/rotateMatrix90_Brute.cpp):Rotate any sqaure Matrix by 90 Degrees [Link to Question❓](https://leetcode.com/problems/rotate-image/description/)
 
@@ -237,6 +213,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 ### **Day 26: May 21, 2024**
 
 - Added [subArraySumK.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2026/subArraySumK.cpp): Returns number of subarray that can sum up to K[Link to Question❓](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+---
+
+### **Day 27: May 22, 2024**
+
+- Added [pascalTriangle.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2027/pascalTriangle.cpp): Returns upto the nth row of the pascal triangle [Link to Question❓](https://leetcode.com/problems/pascals-triangle/description/)
 
 ---
 
