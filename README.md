@@ -222,6 +222,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 28: May 23, 2024**
+
+- Added [majorityN3.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2028/majorityN3.cpp): Returns array of majority n/3 elemtns [Link to Question❓](https://leetcode.com/problems/majority-element-ii/)
+
+---
+
 ## **Connect with Me**
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
