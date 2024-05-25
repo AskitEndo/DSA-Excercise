@@ -230,7 +230,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 29: May 24, 2024**
 
-- Added [threeSum.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2029/threeSum.cpp):three Sum problem [Link to Question❓](https://leetcode.com/problems/3sum)
+- Added [threeSum.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2029/threeSum.cpp):three Sum problem [Link to Question❓](https://leetcode.com/problems/3sum/description)
 
 ---
 
