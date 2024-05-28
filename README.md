@@ -248,7 +248,13 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 32: May 27, 2024**
 
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/):[Link to Question❓](https://leetcode.com/problems/)
+- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2032/):[Link to Question❓](https://leetcode.com/problems/)
+
+---
+
+### **Day 33: May 28, 2024**
+
+- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2033/):[Link to Question❓](https://leetcode.com/problems/)
 
 ---
 
