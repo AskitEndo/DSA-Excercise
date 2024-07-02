@@ -1,16 +1,26 @@
-#include<bits/Stdc++.h>
+// Returns the longest consecutive array of elements number.
+// Link: https://leetcode.com/problems/longest-consecutive-sequence/)
+
+#include <bits/Stdc++.h>
 using namespace std;
 
-int longestConsecutive(vector<int>& nums) {
-    if(nums.empty()) return 0;
+int longestConsecutive(vector<int> &nums)
+{
+    if (nums.empty())
+        return 0;
     sort(nums.begin(), nums.end());
     int longest = 1;
     int current = 1;
-    for(int i = 1; i < nums.size(); i++) {
-        if(nums[i] != nums[i - 1]) {
-            if(nums[i] == nums[i - 1] + 1) {
+    for (int i = 1; i < nums.size(); i++)
+    {
+        if (nums[i] != nums[i - 1])
+        {
+            if (nums[i] == nums[i - 1] + 1)
+            {
                 current++;
-            } else {
+            }
+            else
+            {
                 longest = max(longest, current);
                 current = 1;
             }
@@ -21,7 +31,7 @@ int longestConsecutive(vector<int>& nums) {
 
 int main()
 {
-    vector<int> res = {9,1,4,7,3,-1,0,5,8,-1,6};
-    cout<<longestConsecutive(res);
+    vector<int> res = {9, 1, 4, 7, 3, -1, 0, 5, 8, -1, 6};
+    cout << longestConsecutive(res);
     return 0;
 }
