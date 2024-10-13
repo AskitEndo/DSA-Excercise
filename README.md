@@ -234,53 +234,15 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
-### **Day 30: May 25, 2024**
+<!--
 
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/):[Link to Question❓](https://leetcode.com/problems/)
+### **Day DD: MONTH MM, YYYY**
 
----
-
-### **Day 31: May 26, 2024**
-
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/):[Link to Question❓](https://leetcode.com/problems/)
+- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/):[Link to Question❓](https://leetcode.com/problems/)
 
 ---
 
-### **Day 32: May 27, 2024**
-
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2032/):[Link to Question❓](https://leetcode.com/problems/)
-
----
-
-### **Day 33: May 28, 2024**
-
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2033/):[Link to Question❓](https://leetcode.com/problems/)
-
----
-
-### **Day 34: May 29, 2024**
-
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2034/):[Link to Question❓](https://leetcode.com/problems/)
-
----
-
-### **Day 35: May 30, 2024**
-
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2035/):[Link to Question❓](https://leetcode.com/problems/)
-
----
-
-### **Day 36: May 31, 2024**
-
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/):[Link to Question❓](https://leetcode.com/problems/)
-
----
-
-### **Day 37: June 1, 2024**
-
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2037/):[Link to Question❓](https://leetcode.com/problems/)
-
----
+-->
 
 ## **Connect with Me**
 
