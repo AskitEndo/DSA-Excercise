@@ -240,7 +240,9 @@ Back in the series in 2025.
 
 ### **Day 30: Jan 02, 2025**
 
-- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/):[Link to Question❓](https://leetcode.com/problems/4sum/)
+- Added [fourSum_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/fourSum_Brute.cpp):[Link to Question❓](https://leetcode.com/problems/4sum/)
+
+- Added [fourSum_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/fourSum_Better.cpp):[Link to Question❓](https://leetcode.com/problems/4sum/)
 
 ---
 
