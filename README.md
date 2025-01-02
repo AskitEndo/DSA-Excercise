@@ -10,6 +10,10 @@ I'm committed to improving my DSA skills, and what better way to do it than by p
 
 I'll be updating this section daily to keep you informed about the latest additions to the repository.
 
+### **BACK AFTER A BREAK!**
+
+Back in the series in 2025.
+
 ---
 
 ### **Day 1: April 26, 2024**
@@ -234,6 +238,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 30: Jan 02, 2025**
+
+- Added [](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/):[Link to Question❓](https://leetcode.com/problems/4sum/)
+
+---
+
 <!--
 
 ### **Day DD: MONTH MM, YYYY**
@@ -248,6 +258,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 If you have any suggestions, feedback, or just want to say hi, feel free to connect with me!
 
+LinkedIN👤: [Ankit-Kumar-Singh(Askit-Endo)](https://www.linkedin.com/in/askitendo/)\
 GitHub😼: [AskitEndo](https://github.com/AskitEndo)\
 CodingNinjas🥷🏻: [AskitEndo](https://www.naukri.com/code360/profile/AskitEndo)\
 LeetCode💽:[AskitEndo](https://leetcode.com/u/AskitEndo/)\
