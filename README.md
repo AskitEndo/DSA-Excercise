@@ -236,6 +236,8 @@ Back in the series in 2025.
 
 - Added [threeSum.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2029/threeSum.cpp):three Sum problem [Link to Question❓](https://leetcode.com/problems/3sum/description)
 
+- Added [threeSum_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2029/threeSum_Better.cpp):three Sum problem [Link to Question❓](https://leetcode.com/problems/3sum/description)
+
 ---
 
 ### **Day 30: Jan 02, 2025**
@@ -243,6 +245,12 @@ Back in the series in 2025.
 - Added [fourSum_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/fourSum_Brute.cpp):[Link to Question❓](https://leetcode.com/problems/4sum/)
 
 - Added [fourSum_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/fourSum_Better.cpp):[Link to Question❓](https://leetcode.com/problems/4sum/)
+
+---
+
+### **Day 31: Jan 03, 2025**
+
+- Added [fourSum_optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/fourSum_optimal.cpp):[Link to Question❓](https://leetcode.com/problems/4sum/)
 
 ---
 
