@@ -6,30 +6,27 @@ using namespace std;
 
 int maxLen(vector<int> &arr)
 {
-    sort(arr.begin(), arr.end());
-    int i = arr[0];
-    int j = arr.size() - 1;
+    int n = arr.size();
+    unordered_map<int, int> mpp;
     int curr = 0;
-    vector<int> temp;
-    while (i > j)
+    int sum = 0;
+    for (int i = 0; i < n; i++)
     {
-        int sum = arr[i] + arr[j];
+        sum += arr[i];
         if (sum == 0)
         {
-            temp.push_back({arr[i], arr[j]});
-            curr = temp.size();
-            i++;
-            j--;
-        }
-        else if (sum < 0)
-        {
-            temp.push_back(arr[i]);
-            i++;
+            curr = i + 1;
         }
         else
         {
-            temp.push_back(arr[j]);
-            j--;
+            if (mpp.find(sum) != mpp.end())
+            {
+                curr = max(curr, i - mpp[sum]);
+            }
+            else
+            {
+                mpp[sum] = i;
+            }
         }
     }
     return curr;

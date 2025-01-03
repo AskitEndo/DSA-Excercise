@@ -242,15 +242,17 @@ Back in the series in 2025.
 
 ### **Day 30: Jan 02, 2025**
 
-- Added [fourSum_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/fourSum_Brute.cpp):[Link to Question❓](https://leetcode.com/problems/4sum/)
+- Added [fourSum_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/fourSum_Brute.cpp):four sum problem the brit e force[Link to Question❓](https://leetcode.com/problems/4sum/)
 
-- Added [fourSum_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/fourSum_Better.cpp):[Link to Question❓](https://leetcode.com/problems/4sum/)
+- Added [fourSum_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2030/fourSum_Better.cpp):four sum porblem a better approach[Link to Question❓](https://leetcode.com/problems/4sum/)
 
 ---
 
 ### **Day 31: Jan 03, 2025**
 
-- Added [fourSum_optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/fourSum_optimal.cpp):[Link to Question❓](https://leetcode.com/problems/4sum/)
+- Added [fourSum_optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/fourSum_optimal.cpp):Four Sum problem optimal method with no extra space[Link to Question❓](https://leetcode.com/problems/4sum/)
+
+- Added [largestSubArrayWith0Sum.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/largestSubArrayWith0Sum.cpp):Givnig the largest subarray wth sum 0, similra to kadane algorithm[Link to Question❓](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/)
 
 ---
 
