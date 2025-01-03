@@ -4,6 +4,8 @@
 #include <bits/Stdc++.h>
 using namespace std;
 
+// -------
+
 int maxLen(vector<int> &arr)
 {
     int n = arr.size();
@@ -31,6 +33,8 @@ int maxLen(vector<int> &arr)
     }
     return curr;
 }
+
+// -----
 
 int main()
 {
