@@ -252,7 +252,7 @@ Back in the series in 2025.
 
 - Added [fourSum_optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/fourSum_optimal.cpp):Four Sum problem optimal method with no extra space[Link to Question❓](https://leetcode.com/problems/4sum/)
 
-- Added [largestSubArrayWith0Sum.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/largestSubArrayWith0Sum.cpp):Givnig the largest subarray wth sum 0, similra to kadane algorithm[Link to Question❓](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/)
+- Added [largestSubArrayWith0Sum.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2031/largestSubArrayWith0Sum.cpp):Givnig the largest subarray wth sum 0, similra to kadane algorithm[Link to Question❓](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 
 ---
 
