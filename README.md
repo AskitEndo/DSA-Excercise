@@ -256,6 +256,18 @@ Back in the series in 2025.
 
 ---
 
+### **Day 32: Jan 04, 2025**
+
+- Added [subArraywithXOR_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2032/subArraywithXOR_Brute.cpp):Return the largest sub array with 0 sum[Link to Question❓](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
+
+---
+
+### **Day 33: Jan 05, 2025**
+
+- Added [subArraywithXOR_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2033/subArraywithXOR_Better.cpp):Return the largest sub array with 0 sum[Link to Question❓](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
+
+---
+
 <!--
 
 ### **Day DD: MONTH MM, YYYY**
