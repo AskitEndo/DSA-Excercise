@@ -266,6 +266,8 @@ Back in the series in 2025.
 
 - Added [subArraywithXOR_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2033/subArraywithXOR_Better.cpp):Return the largest sub array with 0 sum[Link to Question❓](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
 
+- Added [subArraywithXOR_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2033/subArraywithXOR_Optimal.cpp):Return the largest sub array with 0 sum[Link to Question❓](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
+
 ---
 
 <!--
