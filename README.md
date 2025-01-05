@@ -268,6 +268,8 @@ Back in the series in 2025.
 
 - Added [subArraywithXOR_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2033/subArraywithXOR_Optimal.cpp):Return the largest sub array with 0 sum[Link to Question❓](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
 
+- Added [pairSumLess.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2033/pairSumLess.cpp):Find number of pairs whose sum is less than the target[Link to Question❓](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1)
+
 ---
 
 <!--
