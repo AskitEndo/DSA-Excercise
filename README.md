@@ -32,6 +32,10 @@ Back wuth the series in 2025❗
 
 - Added [mergeAndRepeating.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2035/mergeAndRepeating.cpp):Given an unsorted array arr of positive integers. One number a from the set [1, 2,....,n] is missing and one number b occurs twice in the array. Find numbers a and b.[Link to Question❓](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 
+- Added [countInversion_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2035/countInversion_Brute.cpp):Given an array of integers arr[]. Find the Inversion Count in the array.[Link to Question❓](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
+
+- Added [countInversion.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2035/countInversion.cpp):Given an array of integers arr[]. Find the Inversion Count in the array.[Link to Question❓](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
+
 ---
 
 ### **Day 34: Mar 04, 2025**
