@@ -28,6 +28,14 @@ Back wuth the series in 2025❗
 
 ### **Day 34: Mar 04, 2025**
 
+- Added [mergeIntervals.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2035/mergeIntervals.cpp):Merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.[Link to Question❓](https://leetcode.com/problems/merge-intervals/)
+
+- Added [mergeAndRepeating.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2035/mergeAndRepeating.cpp):Given an unsorted array arr of positive integers. One number a from the set [1, 2,....,n] is missing and one number b occurs twice in the array. Find numbers a and b.[Link to Question❓](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
+
+---
+
+### **Day 34: Mar 04, 2025**
+
 - Added [mergeSortedArray.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2034/mergeSortedArray.cpp):Merging two arrays into one[Link to Question❓](https://leetcode.com/problems/merge-sorted-array)
 
 ---
