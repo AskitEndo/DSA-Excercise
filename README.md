@@ -30,6 +30,8 @@ Back wuth the series in 2025❗
 
 - Added [reversePair_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/reversePair_Brute.cpp):Given an integer array nums, return the number of reverse pairs in the array.[Link to Question❓](https://leetcode.com/problems/reverse-pairs/)
 
+- Added [reversePair_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/reversePair_Better.cpp):Given an integer array nums, return the number of reverse pairs in the array.[Link to Question❓](https://leetcode.com/problems/reverse-pairs/)
+
 ---
 
 ### **Day 35: Mar 05, 2025**
