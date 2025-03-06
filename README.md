@@ -26,7 +26,13 @@ Back wuth the series in 2025❗
 
 ---
 
-### **Day 34: Mar 05, 2025**
+### **Day 36: Mar 06, 2025**
+
+- Added [reversePair_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/reversePair_Brute.cpp):Given an integer array nums, return the number of reverse pairs in the array.[Link to Question❓](https://leetcode.com/problems/)
+
+---
+
+### **Day 35: Mar 05, 2025**
 
 - Added [mergeIntervals.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2035/mergeIntervals.cpp):Merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.[Link to Question❓](https://leetcode.com/problems/merge-intervals/)
 
