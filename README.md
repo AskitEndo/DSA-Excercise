@@ -10,10 +10,6 @@ I'm committed to improving my DSA skills, and what better way to do it than by p
 
 I'll be updating this section daily to keep you informed about the latest additions to the repository.
 
-### **BACK AFTER A BREAK!**
-
-Back wuth the series in 2025❗
-
 <!--
 
 ### **Day DD: MONTH MM, YYYY**
@@ -28,7 +24,11 @@ Back wuth the series in 2025❗
 
 ### **Day 37: Mar 07, 2025**
 
-- Added [maxProdSubArray.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/maxProdSubArray.cpp):Given an integer array nums, find a subarray that has the largest product, and return the product.[Link to Question❓](https://leetcode.com/problems/maximum-product-subarray/)
+- Added [maxProdSubArray_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2037/maxProdSubArray_Optimal.cpp):Given an integer array nums, find a subarray that has the largest product, and return the product.[Link to Question❓](https://leetcode.com/problems/maximum-product-subarray/)
+
+- Added [maxProdSubArray_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2037/maxProdSubArray_Better.cpp):Given an integer array nums, find a subarray that has the largest product, and return the product.[Link to Question❓](https://leetcode.com/problems/maximum-product-subarray/)
+
+- Added [maxProdSubArray_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2037/maxProdSubArray_Brute.cpp):Given an integer array nums, find a subarray that has the largest product, and return the product.[Link to Question❓](https://leetcode.com/problems/maximum-product-subarray/)
 
 ---
 
