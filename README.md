@@ -26,11 +26,17 @@ Back wuth the series in 2025❗
 
 ---
 
+### **Day 37: Mar 07, 2025**
+
+- Added [maxProdSubArray.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/maxProdSubArray.cpp):Given an integer array nums, find a subarray that has the largest product, and return the product.[Link to Question❓](https://leetcode.com/problems/maximum-product-subarray/)
+
+---
+
 ### **Day 36: Mar 06, 2025**
 
 - Added [reversePair_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/reversePair_Brute.cpp):Given an integer array nums, return the number of reverse pairs in the array.[Link to Question❓](https://leetcode.com/problems/reverse-pairs/)
 
-- Added [reversePair_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/reversePair_Better.cpp):Given an integer array nums, return the number of reverse pairs in the array.[Link to Question❓](https://leetcode.com/problems/reverse-pairs/)
+- Added [reversePair.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2036/reversePair.cpp):Given an integer array nums, return the number of reverse pairs in the array.[Link to Question❓](https://leetcode.com/problems/reverse-pairs/)
 
 ---
 
