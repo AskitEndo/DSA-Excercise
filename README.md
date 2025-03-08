@@ -22,6 +22,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 38: Mar 08, 2025**
+
+- Added [binarySearch.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/):Implement binary search o(log(n)) to find element[Link to Question❓](https://leetcode.com/problems/binary-search/)
+
+---
+
 ### **Day 37: Mar 07, 2025**
 
 - Added [maxProdSubArray_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2037/maxProdSubArray_Optimal.cpp):Given an integer array nums, find a subarray that has the largest product, and return the product.[Link to Question❓](https://leetcode.com/problems/maximum-product-subarray/)
