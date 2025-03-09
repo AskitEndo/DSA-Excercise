@@ -24,13 +24,13 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 39: Mar 09, 2025**
 
-- Added [lowerBound.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Codes/Day%2039/lowerBound.cpp):find lowerBound of the number[Link to Question❓](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)
+- Added [lowerBound.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2039/lowerBound.cpp):find lowerBound of the number[Link to Question❓](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)
 
 ---
 
 ### **Day 38: Mar 08, 2025**
 
-- Added [binarySearch.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Codes/Day%2038/binarySearch.cpp):Implement binary search o(log(n)) to find element[Link to Question❓](https://leetcode.com/problems/binary-search/)
+- Added [binarySearch.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2038/binarySearch.cpp):Implement binary search o(log(n)) to find element[Link to Question❓](https://leetcode.com/problems/binary-search/)
 
 ---
 
