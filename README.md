@@ -26,6 +26,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [getFloorAndCeil.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2040/getFloorAndCeil.cpp):find floor and ceil of number in the array[Link to Question❓](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)
 
+- Added [upperBound.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2040/upperBound.cpp):find upper bound of number in the array[Link to Question❓](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)
+
 ---
 
 ### **Day 39: Mar 09, 2025**

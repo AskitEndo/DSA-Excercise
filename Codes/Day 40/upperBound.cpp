@@ -1,38 +1,38 @@
-// find LowerBound of the number
-// https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1
+// find Upper Bound of the number
+// https://www.geeksforgeeks.org/problems/implement-upper-bound/1
 
 #include <bits/Stdc++.h>
 using namespace std;
 
 // -----
-int findFloor(vector<int> &arr, int x)
+int upperBound(vector<int> &arr, int x)
 {
-
     int start = 0;
     int end = arr.size() - 1;
     int ans = -1;
+
     while (start <= end)
     {
         int mid = (end + start) / 2;
 
-        if (arr[mid] <= x)
+        if (arr[mid] > x)
         {
             ans = mid;
-            start = mid + 1;
+            end = mid - 1;
         }
         else
         {
-            end = mid - 1;
+            start = mid + 1;
         }
     }
+
     return ans;
 }
-
 // -----
 
 int main()
 {
-    vector<int> data = {1, 2, 8, 10, 10, 12, 19};
-    cout << findFloor(data, 5);
+    vector<int> data = {2, 3, 7, 10, 11, 11, 25};
+    cout << upperBound(data, 9);
     return 0;
 }
