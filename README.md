@@ -22,6 +22,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 40: Mar 10, 2025**
+
+- Added [getFloorAndCeil.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2040/getFloorAndCeil.cpp):find floor and ceil of number in the array[Link to Question❓](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)
+
+---
+
 ### **Day 39: Mar 09, 2025**
 
 - Added [lowerBound.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2039/lowerBound.cpp):find lowerBound of the number[Link to Question❓](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)
