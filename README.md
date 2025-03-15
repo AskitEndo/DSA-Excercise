@@ -22,6 +22,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 41: Mar 15, 2025**
+
+- Added [searchInsertPosition.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2041/searchInsertPosition.cpp):Return appropriate index to insert the number[Link to Question❓](https://leetcode.com/problems/search-insert-position/)
+
+---
+
 ### **Day 40: Mar 10, 2025**
 
 - Added [getFloorAndCeil.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2040/getFloorAndCeil.cpp):find floor and ceil of number in the array[Link to Question❓](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)
