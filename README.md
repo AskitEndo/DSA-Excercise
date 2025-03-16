@@ -22,6 +22,14 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 42: Mar 16, 2025**
+
+- Added [searchRange.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2042/searchRange.cpp):Return appropriate range of the number[Link to Question❓](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+- Added [countFreq.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2042/countFreq.cpp):Return appropriate count of the number[Link to Question❓](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)
+
+---
+
 ### **Day 41: Mar 15, 2025**
 
 - Added [searchInsertPosition.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2041/searchInsertPosition.cpp):Return appropriate index to insert the number[Link to Question❓](https://leetcode.com/problems/search-insert-position/)
