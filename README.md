@@ -10,6 +10,8 @@ I'm committed to improving my DSA skills, and what better way to do it than by p
 
 I'll be updating this section daily to keep you informed about the latest additions to the repository.
 
+> as of 4th september I'll restart the series in the same repo with top 150 questions. Got busy getting back on track.😎🌻
+
 <!--
 
 ### **Day DD: MONTH MM, YYYY**
@@ -19,6 +21,16 @@ I'll be updating this section daily to keep you informed about the latest additi
 ---
 
 -->
+
+---
+
+### **Day 43: Sep 04, 2025**
+
+- Added [rotateArray_restart.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2043/rotateArray_restart.cpp): Given an integer array nums, rotate the array to the right by k steps, where k is non-negative. [Link to Question❓](https://leetcode.com/problems/rotate-array/description/)
+
+- Added [squareNSorted_easy.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2043/squareNSorted_easy.cpp): Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.[Link to Question❓](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+
+- Added [squareNSorted_optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2043/squareNSorted_optimal.cpp): Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.[Link to Question❓](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 
 ---
 
