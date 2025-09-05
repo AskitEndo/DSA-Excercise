@@ -26,7 +26,9 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 44: Sep 05, 2025**
 
-- Added [majorityElementN4.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2045/majorityElementN4.cpp): Returns the majority element which occurs more then n/2 times.[Link to Question❓](https://leetcode.com/problems/majority-element/)
+- Added [majorityElementN4.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2044/majorityElementN4.cpp): Returns the majority element which occurs more then n/2 times.[Link to Question❓](https://leetcode.com/problems/majority-element/)
+
+- Added [nextMajorityiii_inBuilt.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2044/nextMajorityiii_inBuilt.cpp): Next Majority Element which is next in permutation but is not and interger overload[Link to Question❓](https://leetcode.com/problems/next-greater-element-iii/description/)
 
 ---
 
