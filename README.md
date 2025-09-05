@@ -24,6 +24,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 44: Sep 05, 2025**
+
+- Added [majorityElementN4.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2045/majorityElementN4.cpp): Returns the majority element which occurs more then n/2 times.[Link to Question❓](https://leetcode.com/problems/majority-element/)
+
+---
+
 ### **Day 43: Sep 04, 2025**
 
 - Added [rotateArray_restart.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2043/rotateArray_restart.cpp): Given an integer array nums, rotate the array to the right by k steps, where k is non-negative. [Link to Question❓](https://leetcode.com/problems/rotate-array/description/)
