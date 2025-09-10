@@ -24,6 +24,14 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ---
 
+### **Day 46: Sep 9, 2025**
+
+- Added [maxChunksSorted.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2046/maxChunksSorted.cpp):Return max count of chunks such that sorting each chunk individually and concatenating results in a sorted array[Link to Question❓](https://leetcode.com/problems/max-chunks-to-make-sorted/)
+
+- Added [maxChunksSortedii.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2046/maxChunksSortedii.cpp):Return the largest number of chunks we can make to sort the array.[Link to Question❓](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
+
+---
+
 ### **Day 45: Sep 05, 2025**
 
 - Added [nextMajorityiii_manual.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2045/nextMajorityiii_manual.cpp): Next Majority Element which is next in permutation but is not and interger overload[Link to Question❓](https://leetcode.com/problems/next-greater-element-iii/description/)
