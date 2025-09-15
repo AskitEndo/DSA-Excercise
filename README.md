@@ -22,6 +22,14 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 48: Sep 15, 2025**
+
+- Added [rangeAddition_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2048/rangeAddition_Brute.cpp):Perform range addition from an matrix to an array[Link to Question❓](https://www.lintcode.com/problem/903/)
+
+- Added [rangeAddition_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2048/rangeAddition_Optimal.cpp):Perform range addition from an matrix to an array[Link to Question❓](https://www.lintcode.com/problem/903/)
+
+---
+
 ### **Day 47: Sep 12, 2025**
 
 - Added [firstMissingPositive_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2047/firstMissingPositive_Brute.cpp):Given an unsorted integer array nums. Return the smallest positive integer that is not present in nums.[Link to Question❓](https://leetcode.com/problems/first-missing-positive/description/)
