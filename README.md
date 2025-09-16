@@ -22,6 +22,14 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 49: Sep 16, 2025**
+
+- Added [minimumPlatform_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2049/minimumPlatform_Optimal.cpp):Given arrival arr[] and departure dep[] times of trains on the same day, find the minimum number of platforms needed so that no train waits.[Link to Question❓](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
+
+- Added [minimumPlatform_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2049/minimumPlatform_Brute.cpp):Given arrival arr[] and departure dep[] times of trains on the same day, find the minimum number of platforms needed so that no train waits.[Link to Question❓](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
+
+---
+
 ### **Day 48: Sep 15, 2025**
 
 - Added [rangeAddition_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2048/rangeAddition_Brute.cpp):Perform range addition from an matrix to an array[Link to Question❓](https://www.lintcode.com/problem/903/)
