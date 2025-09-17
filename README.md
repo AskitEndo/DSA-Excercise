@@ -24,7 +24,7 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 50: Sep 17, 2025**
 
-- Added [rainWater_Space_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2050/rainWater_Space.cpp):Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.[Link to Question❓](https://leetcode.com/problems/trapping-rain-water/description/)
+- Added [rainWater_Space.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2050/rainWater_Space.cpp):Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.[Link to Question❓](https://leetcode.com/problems/trapping-rain-water/description/)
 
 - Added [rainWater_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2050/rainWater_Optimal.cpp):Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.[Link to Question❓](https://leetcode.com/problems/trapping-rain-water/description/)
 
