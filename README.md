@@ -22,6 +22,14 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 50: Sep 17, 2025**
+
+- Added [rainWater_Space_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2050/rainWater_Space.cpp):Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.[Link to Question❓](https://leetcode.com/problems/trapping-rain-water/description/)
+
+- Added [rainWater_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2050/rainWater_Optimal.cpp):Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.[Link to Question❓](https://leetcode.com/problems/trapping-rain-water/description/)
+
+---
+
 ### **Day 49: Sep 16, 2025**
 
 - Added [minimumPlatform_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2049/minimumPlatform_Optimal.cpp):Given arrival arr[] and departure dep[] times of trains on the same day, find the minimum number of platforms needed so that no train waits.[Link to Question❓](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
