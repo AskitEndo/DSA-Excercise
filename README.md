@@ -22,6 +22,16 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 51: Sep 18, 2025**
+
+- Added [containerWater_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2051/containerWater_Brute.cpp):You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).[Link to Question❓](https://leetcode.com/problems/container-with-most-water/description/)
+
+- Added [containerWater_2pointer.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2051/containerWater_2pointer.cpp):You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).[Link to Question❓](https://leetcode.com/problems/container-with-most-water/description/)
+
+- Added [twoDifference.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2051/twoDifference.cpp):return true if there exists a pair of elements in the array whose absolute difference is x.[Link to Question❓](hhttps://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1/)
+
+---
+
 ### **Day 50: Sep 17, 2025**
 
 - Added [rainWater_Space.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2050/rainWater_Space.cpp):Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.[Link to Question❓](https://leetcode.com/problems/trapping-rain-water/description/)
