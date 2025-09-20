@@ -1,3 +1,6 @@
+// Given n and k, return the kth permutation sequence.
+// https://leetcode.com/problems/permutation-sequence/
+
 #include <bits/stdc++.h>
 using namespace std;
 

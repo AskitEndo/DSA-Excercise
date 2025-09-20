@@ -24,9 +24,9 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 ### **Day 52: Sep 19, 2025**
 
-- Added [permutation.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2051/permutation.cpp):Get all possible permutations of an array of distinct integers.[Link to Question❓](https://leetcode.com/problems/permutations/)
+- Added [permutation.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2052/permutation.cpp):Get all possible permutations of an array of distinct integers.[Link to Question❓](https://leetcode.com/problems/permutations/)
 
-- Added [permutationSequence.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2051/permutationSequence.cpp):Get all possible permutations of an array of distinct integers.[Link to Question❓](https://leetcode.com/problems/permutations/)
+- Added [permutationSequence.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2052/permutationSequence.cpp):Given n and k, return the kth permutation sequence.[Link to Question❓](https://leetcode.com/problems/permutation-sequence/)
 
 ---
 
