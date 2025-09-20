@@ -22,6 +22,14 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 52: Sep 19, 2025**
+
+- Added [permutation.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2051/permutation.cpp):Get all possible permutations of an array of distinct integers.[Link to Question❓](https://leetcode.com/problems/permutations/)
+
+- Added [permutationSequence.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2051/permutationSequence.cpp):Get all possible permutations of an array of distinct integers.[Link to Question❓](https://leetcode.com/problems/permutations/)
+
+---
+
 ### **Day 51: Sep 18, 2025**
 
 - Added [containerWater_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2051/containerWater_Brute.cpp):You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).[Link to Question❓](https://leetcode.com/problems/container-with-most-water/description/)
