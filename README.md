@@ -22,6 +22,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 53: Sep 22, 2025**
+
+- Added [combinationSum.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2053/combinationSum.cpp):Return array of arrays of size \*returnSize.[Link to Question❓](https://leetcode.com/problems/combination-sum/)
+
+---
+
 ### **Day 52: Sep 19, 2025**
 
 - Added [permutation.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2052/permutation.cpp):Get all possible permutations of an array of distinct integers.[Link to Question❓](https://leetcode.com/problems/permutations/)
