@@ -22,9 +22,17 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 54: Sep 23, 2025**
+
+- Added [combinationSum_II_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2054/combinationSum_II_Brute.cpp):Return array of arrays of all the unique combinations of candidates where the chosen numbers sum to target.[Link to Question❓](https://leetcode.com/problems/combination-sum-ii/)
+
+- Added [combinationSum_II_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2054/combinationSum_II_Optimal.cpp):Return array of arrays of all the unique combinations of candidates where the chosen numbers sum to target.[Link to Question❓](https://leetcode.com/problems/combination-sum-ii/)
+
+---
+
 ### **Day 53: Sep 22, 2025**
 
-- Added [combinationSum.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2053/combinationSum.cpp):Return array of arrays of size \*returnSize.[Link to Question❓](https://leetcode.com/problems/combination-sum/)
+- Added [combinationSum_I.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2053/combinationSum_I.cpp):Return array of arrays of all the unique combinations of candidates where the chosen numbers sum to target.[Link to Question❓](https://leetcode.com/problems/combination-sum/)
 
 ---
 

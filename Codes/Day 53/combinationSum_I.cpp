@@ -1,4 +1,5 @@
-// Return array of arrays of size *returnSize.
+// Return array of arrays of all the unique combinations of candidates where the chosen numbers sum to target.
+// The same number may be chosen from candidates an unlimited number of times.
 // https://leetcode.com/problems/combination-sum/
 
 #include <bits/Stdc++.h>
