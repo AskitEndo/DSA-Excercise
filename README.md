@@ -28,6 +28,8 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [letterCombination_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2055/letterCombination_Optimal.cpp):Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.[Link to Question❓](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
+- Added [numPicker.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2055/numPicker.cpp):Given an integer array nums of unique elements, return all possible subsets (the power set).[Link to Question❓](https://leetcode.com/problems/subsets/)
+
 ---
 
 ### **Day 54: Sep 23, 2025**
