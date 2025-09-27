@@ -22,6 +22,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 56: Sep 25, 2025**
+
+- Added [NQueen_I.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2056/NQueen_I.cpp): given N genrate all possible configurations of N queens in N\*N chess board such that no two queens can attack each other.[Link to Question❓](https://leetcode.com/problems/n-queens/)
+
+---
+
 ### **Day 55: Sep 25, 2025**
 
 - Added [letterCombination_Brute.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2055/letterCombination_Brute.cpp):Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.[Link to Question❓](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
