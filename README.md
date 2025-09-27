@@ -26,6 +26,10 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 - Added [NQueen_I.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2056/NQueen_I.cpp): given N genrate all possible configurations of N queens in N\*N chess board such that no two queens can attack each other.[Link to Question❓](https://leetcode.com/problems/n-queens/)
 
+- Added [NQueen_II_Better.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2056/NQueen_II_Better.cpp): given N count all possible configurations of N queens in N\*N chess board such that no two queens can attack each other.[Link to Question❓](https://leetcode.com/problems/n-queens-ii/)
+
+- Added [NQueen_II_Optimal.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2056/NQueen_II_Optimal.cpp): given N count all possible configurations of N queens in N\*N chess board such that no two queens can attack each other.[Link to Question❓](https://leetcode.com/problems/n-queens-ii/)
+
 ---
 
 ### **Day 55: Sep 25, 2025**
