@@ -22,6 +22,12 @@ I'll be updating this section daily to keep you informed about the latest additi
 
 -->
 
+### **Day 57: Sep 01, 2025**
+
+- Added [ratInAMaze.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2057/ratInAMaze.cpp):a rat placed at position (0, 0) to reach the destination at position (n-1, n-1).[Link to Question❓](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+
+---
+
 ### **Day 56: Sep 25, 2025**
 
 - Added [NQueen_I.cpp](https://github.com/AskitEndo/DSA-Excercise/blob/main/Codes/Day%2056/NQueen_I.cpp): given N genrate all possible configurations of N queens in N\*N chess board such that no two queens can attack each other.[Link to Question❓](https://leetcode.com/problems/n-queens/)
